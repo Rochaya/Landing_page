@@ -1,3 +1,6 @@
+
+/* CSS NAVBAR ET CARROUSSEL */
+
 .jumbotron {
     background: rgb(0,4,110);
     background: linear-gradient(45deg, rgba(0,4,110,1) 45%, rgba(136,0,255,1) 77%, rgba(255,252,0,1) 100%);
@@ -6,7 +9,6 @@
     font-family: Montserrat, sans-serif;
     justify-content: center;
 }
-
 
 .center1{
     justify-content: center;
@@ -46,3 +48,5 @@
     justify-content: flex-end;
     max-width: 150px;
 }
+
+/* FIN DU CSS NAVBAR ET CAROUSSEL */
