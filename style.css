@@ -1,0 +1,48 @@
+.jumbotron {
+    background: rgb(0,4,110);
+    background: linear-gradient(45deg, rgba(0,4,110,1) 45%, rgba(136,0,255,1) 77%, rgba(255,252,0,1) 100%);
+    color: #fff;
+    width: auto;
+    font-family: Montserrat, sans-serif;
+    justify-content: center;
+}
+
+
+.center1{
+    justify-content: center;
+}
+
+.navbar {
+    height: 50px;
+    margin-bottom: 0;
+    background: rgb(0,4,110);
+    background: linear-gradient(162deg, rgba(0,4,110,1) 45%, rgba(136,0,255,1) 77%, rgba(255,252,0,1) 100%);
+    z-index: 9999;
+    border: 0;
+    font-size: 12px !important;
+    line-height: 1.42857143 !important;
+    letter-spacing: 4px;
+    border-radius: 0;
+    font-family: Montserrat, sans-serif;
+}
+
+.navbar li a, .navbar .navbar-brand {
+    color: #fff !important;
+}
+
+.navbar-nav li a:hover, .navbar-nav li.active a {
+    color: #f6f6f6 !important;
+    text-decoration: underline #f6f6f6 2px;
+    transition: transform 0.5s ease;
+}
+
+.navbar-default .navbar-toggle {
+    border-color: transparent;
+    color: #fff !important;
+    justify-content: center;
+}
+
+.lockr {
+    justify-content: flex-end;
+    max-width: 150px;
+}
